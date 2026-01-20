@@ -1,3 +1,10 @@
+# Sample Input (paste this when running)
+# 1
+# 3 50
+# 60 10
+# 100 20
+# 120 30
+
 t = int(input())
 
 for _ in range(t):
@@ -26,3 +33,7 @@ for _ in range(t):
             break
 
     print(f"{total_value:.6f}")
+
+
+# Output : 240.000000
+
