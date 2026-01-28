@@ -1,3 +1,5 @@
+# Problem 1
+
 # Sample Input (paste this when running)
 # 1
 # 3 50
