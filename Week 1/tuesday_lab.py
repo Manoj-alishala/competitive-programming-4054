@@ -1,11 +1,13 @@
 # Problem 1
 
-# Sample Input (paste this when running)
-# 1
-# 3 50
-# 60 10
-# 100 20
-# 120 30
+'''
+Sample Input:
+1
+3 50
+60 10
+100 20
+120 30
+'''
 
 t = int(input())
 
